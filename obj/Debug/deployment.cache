@@ -1,0 +1,30 @@
+<Cache>
+  <Translators>
+    <Translator value="OpenSpan.Adapters.Virtual.dll" />
+  </Translators>
+  <BuildReferences>
+    <BuildReference value="RuntimeConfig.xml" />
+    <BuildReference value="DefaultWindowFactoryConfiguration.xml" />
+    <BuildReference value="openspan.ini" />
+    <BuildReference value="OpenSpan.x32.sys" />
+    <BuildReference value="OpenSpan.x64.sys" />
+    <BuildReference value="Pega.GlobalAllocator.x32.dll" />
+    <BuildReference value="Pega.GlobalAllocator.x64.dll" />
+    <BuildReference value="Pega.Scout.x32.dll" />
+    <BuildReference value="Pega.Scout.x64.dll" />
+    <BuildReference value="Pega.Security.x32.dll" />
+    <BuildReference value="Pega.Security.x64.dll" />
+    <BuildReference value="Pega.SharedMemory.x32.dll" />
+    <BuildReference value="Pega.SharedMemory.x64.dll" />
+    <BuildReference value="Pega.Sinon.x32.dll" />
+    <BuildReference value="Pega.Sinon.x64.dll" />
+    <BuildReference value="Pega.Utilities.x32.dll" />
+    <BuildReference value="Pega.Utilities.x64.dll" />
+    <BuildReference value="Pega.WER.x32.dll" />
+    <BuildReference value="Pega.WER.x64.dll" />
+    <BuildReference value="Pega.Windows.Broker.x32.dll" />
+    <BuildReference value="Pega.Windows.Broker.x64.dll" />
+    <BuildReference value="Pega.WinQueue.x32.dll" />
+    <BuildReference value="Pega.WinQueue.x64.dll" />
+  </BuildReferences>
+</Cache>

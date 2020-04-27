@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="youtube" fileName="youtube.dll" assemblyName="youtube.dll" id="Project-8D7EA613CE3CD7F" version="19.1.21.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="237370CC637F6E2BFE790DC1FD22121F0AD969">
+    <Assemblies>
+      <Assembly value="youtube.dll" digest="40DF93ED0026D0BEC5B2EABCC281348E220FFA" />
+      <Assembly value="youtube.pdb" digest="51E2D9E1045AD69F115A246EDE2C7FED9E937A" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
